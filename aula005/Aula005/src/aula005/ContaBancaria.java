@@ -92,8 +92,5 @@ public class ContaBancaria {
     public boolean isStatus() {
         return status;
     }
-    
         
-    
-    
 }

@@ -12,10 +12,6 @@ public class Aula005 {
         c1.sacar(50);
         c1.pagarMensal();
         
-        System.out.println("Dono: " + c1.getDono());
-        System.out.println("Saldo: " + c1.getSaldo());
-        System.out.println("Status: " + (c1.isStatus() ? "Ativa" : "Inativa"));
-        
         c1.depositar(500);
     }
     
