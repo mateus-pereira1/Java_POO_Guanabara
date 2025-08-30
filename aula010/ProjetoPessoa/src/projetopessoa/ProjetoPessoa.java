@@ -24,9 +24,7 @@ public class ProjetoPessoa {
         p3.setSalario(2500.75f);
         p4.setSetor("Estoque");
         
-        p1.receberAum(550.2);
-        p2.mudarTrabalho()
-        p4.cancelarMatr();
+      
         
         
         
